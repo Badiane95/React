@@ -1,0 +1,23 @@
+{
+    "name": "jest-initiation",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "vitest",
+        "test:ui": "vitest --ui",
+        "test:run": "vitest run",
+        "coverage": "vitest run --coverage"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@vitest/ui": "latest",
+        "vite": "latest",
+        "vitest": "^3.2.4"
+        
+    }
+
+    
+}
